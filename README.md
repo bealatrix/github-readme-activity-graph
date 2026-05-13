@@ -14,7 +14,7 @@ A dynamically generated activity graph to show your GitHub activities of last 31
 
 ### ⚠️ NOTICE: DEPLOYMENT MOVED ⚠️
 
-The deployment of this project is moved from `https://activity-graph.herokuapp.com` domain to `https://github-readme-activity-graph.cyclic.app`. In case `https://github-readme-activity-graph.cyclic.app` doesn't work try with `https://github-readme-activity-graph.vercel.app` for more details, refer [this](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/197#issuecomment-1560633754)
+The canonical deployment is now `https://github-readme-activity-graph.vercel.app`. Previous deployments at `https://activity-graph.herokuapp.com` (Heroku free tier discontinued) and `https://github-readme-activity-graph.cyclic.app` (Cyclic.sh shut down in early 2025) are no longer reachable. For background see [issue #197](https://github.com/Ashutosh00710/github-readme-activity-graph/issues/197#issuecomment-1560633754).
 
 Please refer to the updated link [here](#how-to-use)
 
